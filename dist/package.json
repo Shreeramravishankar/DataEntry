@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Sphatika Bhat","email":"sphatika.bhat@perspicuum.net"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/dataEntry79BD020AD0A744318923E1B4B0A8646C.pbiviz.json"
+			}
+		],
+		"visual": {"name":"dataEntry","displayName":"DataEntry","guid":"dataEntry79BD020AD0A744318923E1B4B0A8646C","visualClassName":"Visual","version":"1.0.0.0","description":"Editable table visual with write-back capability","supportUrl":"https://yourwebsite.com/support","gitHubUrl":"https://github.com/yourusername/data-entry-visual"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}

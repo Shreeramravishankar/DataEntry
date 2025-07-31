@@ -1,0 +1,30 @@
+{
+  "dataRoles": [
+    {
+      "displayName": "Table Data",
+      "name": "tableData",
+      "kind": "GroupingOrMeasure"
+    }
+  ],
+  "dataViewMappings": [
+    {
+      "table": {
+        "rows": {
+          "select": [
+            {
+              "for": {
+                "in": "tableData"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "objects": {},
+  "privileges": [
+    {
+      "name": "WebAccess"
+    }
+  ]
+}
