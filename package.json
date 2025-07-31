@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "data-entry",
   "description": "Editable Matrix Power BI Visual with write-back to SQL",
   "version": "1.0.0",
@@ -24,5 +25,24 @@
     "eslint": "^8.56.0",
     "eslint-plugin-powerbi-visuals": "^1.0.0",
     "typescript": "^5.5.4"
+=======
+  "name": "dataentryapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mssql": "^11.0.1"
+>>>>>>> 1e91d8e5b827e84cc1977952bbdbf8b4990f6e09
   }
 }
